@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on a project to collect and visualize statistics [myStatBot](https://github.com/a0l6g0r8a9l2/myStatBot)
 
-- 🌱 I’m currently learning **System Design,Python,JS**
+- 🌱 I’m currently learning **System Design, Python, JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a0l6g0r8a9l2](https://github.com/a0l6g0r8a9l2)
 
-- 💬 Ask me about **API,System Design,GraphQL,Python**
+- 💬 Ask me about **API, System Design, GraphQL, Python**
 
-- 📫 How to reach me **a0l6g0r8a9l2@gmail.com**
+- 📫 How to reach me **https://t.me/Alex_Gruzdev**
 
 - 📄 Know about my experiences [https://nn.hh.ru/resume/9138717eff064ce76e0039ed1f775549344467](https://nn.hh.ru/resume/9138717eff064ce76e0039ed1f775549344467)
 

@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **API, System Design, GraphQL, Python**
 
-- 📫 How to reach me **https://t.me/Alex_Gruzdev**
+- 📫 How to reach me: [Telegram](https://t.me/Alex_Gruzdev)
 
-- 📄 Know about my experiences [https://nn.hh.ru/resume/9138717eff064ce76e0039ed1f775549344467](https://nn.hh.ru/resume/9138717eff064ce76e0039ed1f775549344467)
+- 📄 Know about my experiences: see my [resume](https://nn.hh.ru/resume/9138717eff064ce76e0039ed1f775549344467)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h3 align="center">A system analyst from moscow</h3>
+<h3 align="center">System analyst from moscow</h3>
 
 - 🔭 I’m currently working on a project to collect and visualize statistics [myStatBot](https://github.com/a0l6g0r8a9l2/myStatBot)
 

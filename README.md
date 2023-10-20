@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available in my [repositories](https://github.com/a0l6g0r8a9l2?tab=repositories)
 
 - 💬 Ask me about: 
-  - Open-source software for your business
+  - Open-source software for your home or business
   - System & Integration Design (UML, C4)
   - SOA (ESB)
   - Microservices

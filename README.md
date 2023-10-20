@@ -2,9 +2,20 @@
 
 - 🌱 I’m currently learning **English, DeFi**
 
-- 👨‍💻 All of my projects are available at [https://github.com/a0l6g0r8a9l2](https://github.com/a0l6g0r8a9l2)
+- 👨‍💻 All of my projects are available in my [repositories](https://github.com/a0l6g0r8a9l2?tab=repositories)
 
-- 💬 Ask me about **System Design, SOA, Microservices, REST, MQ, GraphQL, REST, UML, SQL, Linux, Scrum, Kanban**
+- 💬 Ask me about: 
+  - Open-source software for your business
+  - System & Integration Design (UML, C4)
+  - SOA (ESB)
+  - Microservices
+  - REST & RESTfull API (OpenAPI)
+  - Message Brokers (AMQ, Rebbit MQ)
+  - GraphQL
+  - SQL
+  - Linux
+  - Scrum
+  - Kanban
 
 - 📄 Know about my experiences, see my CV (resume):
   - [RU](https://nn.hh.ru/resume/9138717eff064ce76e0039ed1f775549344467)
